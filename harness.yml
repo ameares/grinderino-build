@@ -32,7 +32,7 @@ connectors:
 cables:
   W_VTX1:
     gauge: 30 AWG
-    color_code: DIN
+    colors: [GN, YE, BK, RD]
     wirecount: 4
     length: 4 cm
   W_GPS1:
@@ -46,7 +46,7 @@ cables:
     wirecount: 4
     length: 4 cm
   W_BATT1:
-    gauge: 12 AWG
+    gauge: 16 AWG
     colors: [RD, BK]
     wirecount: 2
     length: 7 cm

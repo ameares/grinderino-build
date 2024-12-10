@@ -47,69 +47,69 @@
 <!-- W_VTX1 -->
 <g id="node10" class="node">
 <title>W_VTX1</title>
-<polygon fill="#ffffff" stroke="black" points="564.5,-1540.5 282.5,-1540.5 282.5,-1356.5 564.5,-1356.5 564.5,-1540.5"/>
-<polygon fill="none" stroke="black" points="282.5,-1517.5 282.5,-1540.5 564.5,-1540.5 564.5,-1517.5 282.5,-1517.5"/>
+<polygon fill="#ffffff" stroke="black" points="563.5,-1540.5 283.5,-1540.5 283.5,-1356.5 563.5,-1356.5 563.5,-1540.5"/>
+<polygon fill="none" stroke="black" points="283.5,-1517.5 283.5,-1540.5 563.5,-1540.5 563.5,-1517.5 283.5,-1517.5"/>
 <text text-anchor="start" x="396" y="-1525.3" font-family="arial" font-size="14.00">W_VTX1</text>
-<polygon fill="none" stroke="black" points="282.5,-1494.5 282.5,-1517.5 355.5,-1517.5 355.5,-1494.5 282.5,-1494.5"/>
-<text text-anchor="start" x="311.5" y="-1502.3" font-family="arial" font-size="14.00">4x</text>
-<polygon fill="none" stroke="black" points="355.5,-1494.5 355.5,-1517.5 465.5,-1517.5 465.5,-1494.5 355.5,-1494.5"/>
-<text text-anchor="start" x="384.5" y="-1502.3" font-family="arial" font-size="14.00">30 AWG</text>
-<polygon fill="none" stroke="black" points="465.5,-1494.5 465.5,-1517.5 564.5,-1517.5 564.5,-1494.5 465.5,-1494.5"/>
-<text text-anchor="start" x="494" y="-1502.3" font-family="arial" font-size="14.00">4.0 cm</text>
-<text text-anchor="start" x="331.5" y="-1481.3" font-family="arial" font-size="14.00"> </text>
-<text text-anchor="start" x="284.5" y="-1462.3" font-family="arial" font-size="14.00">TX800:4:VIDEO</text>
-<text text-anchor="start" x="386.5" y="-1462.3" font-family="arial" font-size="14.00"> &#160;&#160;&#160;&#160;1:WH &#160;&#160;&#160;</text>
-<text text-anchor="start" x="465.5" y="-1462.3" font-family="arial" font-size="14.00">FC_AIO:1:VTX</text>
-<polygon fill="#000000" stroke="transparent" points="282.5,-1454.5 282.5,-1456.5 564.5,-1456.5 564.5,-1454.5 282.5,-1454.5"/>
-<polygon fill="#ffffff" stroke="transparent" points="282.5,-1452.5 282.5,-1454.5 564.5,-1454.5 564.5,-1452.5 282.5,-1452.5"/>
-<polygon fill="#000000" stroke="transparent" points="282.5,-1450.5 282.5,-1452.5 564.5,-1452.5 564.5,-1450.5 282.5,-1450.5"/>
-<text text-anchor="start" x="294" y="-1437.3" font-family="arial" font-size="14.00">TX800:3:IRC</text>
-<text text-anchor="start" x="389" y="-1437.3" font-family="arial" font-size="14.00"> &#160;&#160;&#160;&#160;2:BN &#160;&#160;&#160;</text>
-<text text-anchor="start" x="470.5" y="-1437.3" font-family="arial" font-size="14.00">FC_AIO:2:T3</text>
-<polygon fill="#000000" stroke="transparent" points="282.5,-1429.5 282.5,-1431.5 564.5,-1431.5 564.5,-1429.5 282.5,-1429.5"/>
-<polygon fill="#895956" stroke="transparent" points="282.5,-1427.5 282.5,-1429.5 564.5,-1429.5 564.5,-1427.5 282.5,-1427.5"/>
-<polygon fill="#000000" stroke="transparent" points="282.5,-1425.5 282.5,-1427.5 564.5,-1427.5 564.5,-1425.5 282.5,-1425.5"/>
-<text text-anchor="start" x="290.5" y="-1412.3" font-family="arial" font-size="14.00">TX800:5:GND</text>
-<text text-anchor="start" x="387.5" y="-1412.3" font-family="arial" font-size="14.00"> &#160;&#160;&#160;&#160;3:GN &#160;&#160;&#160;</text>
-<text text-anchor="start" x="459.5" y="-1412.3" font-family="arial" font-size="14.00">FC_AIO:3:GND1</text>
-<polygon fill="#000000" stroke="transparent" points="282.5,-1404.5 282.5,-1406.5 564.5,-1406.5 564.5,-1404.5 282.5,-1404.5"/>
-<polygon fill="#00ff00" stroke="transparent" points="282.5,-1402.5 282.5,-1404.5 564.5,-1404.5 564.5,-1402.5 282.5,-1402.5"/>
-<polygon fill="#000000" stroke="transparent" points="282.5,-1400.5 282.5,-1402.5 564.5,-1402.5 564.5,-1400.5 282.5,-1400.5"/>
-<text text-anchor="start" x="297.5" y="-1387.3" font-family="arial" font-size="14.00">TX800:6:5V</text>
-<text text-anchor="start" x="389" y="-1387.3" font-family="arial" font-size="14.00"> &#160;&#160;&#160;&#160;4:YE &#160;&#160;&#160;</text>
-<text text-anchor="start" x="470" y="-1387.3" font-family="arial" font-size="14.00">FC_AIO:4:5V</text>
-<polygon fill="#000000" stroke="transparent" points="282.5,-1379.5 282.5,-1381.5 564.5,-1381.5 564.5,-1379.5 282.5,-1379.5"/>
-<polygon fill="#ffff00" stroke="transparent" points="282.5,-1377.5 282.5,-1379.5 564.5,-1379.5 564.5,-1377.5 282.5,-1377.5"/>
-<polygon fill="#000000" stroke="transparent" points="282.5,-1375.5 282.5,-1377.5 564.5,-1377.5 564.5,-1375.5 282.5,-1375.5"/>
-<text text-anchor="start" x="331.5" y="-1362.3" font-family="arial" font-size="14.00"> </text>
+<polygon fill="none" stroke="black" points="283.5,-1494.5 283.5,-1517.5 355.5,-1517.5 355.5,-1494.5 283.5,-1494.5"/>
+<text text-anchor="start" x="312" y="-1502.3" font-family="arial" font-size="14.00">4x</text>
+<polygon fill="none" stroke="black" points="355.5,-1494.5 355.5,-1517.5 464.5,-1517.5 464.5,-1494.5 355.5,-1494.5"/>
+<text text-anchor="start" x="384" y="-1502.3" font-family="arial" font-size="14.00">30 AWG</text>
+<polygon fill="none" stroke="black" points="464.5,-1494.5 464.5,-1517.5 563.5,-1517.5 563.5,-1494.5 464.5,-1494.5"/>
+<text text-anchor="start" x="493" y="-1502.3" font-family="arial" font-size="14.00">4.0 cm</text>
+<text text-anchor="start" x="332.5" y="-1481.3" font-family="arial" font-size="14.00"> </text>
+<text text-anchor="start" x="285.5" y="-1462.3" font-family="arial" font-size="14.00">TX800:4:VIDEO</text>
+<text text-anchor="start" x="387.5" y="-1462.3" font-family="arial" font-size="14.00"> &#160;&#160;&#160;&#160;1:GN &#160;&#160;&#160;</text>
+<text text-anchor="start" x="464.5" y="-1462.3" font-family="arial" font-size="14.00">FC_AIO:1:VTX</text>
+<polygon fill="#000000" stroke="transparent" points="283.5,-1454.5 283.5,-1456.5 563.5,-1456.5 563.5,-1454.5 283.5,-1454.5"/>
+<polygon fill="#00ff00" stroke="transparent" points="283.5,-1452.5 283.5,-1454.5 563.5,-1454.5 563.5,-1452.5 283.5,-1452.5"/>
+<polygon fill="#000000" stroke="transparent" points="283.5,-1450.5 283.5,-1452.5 563.5,-1452.5 563.5,-1450.5 283.5,-1450.5"/>
+<text text-anchor="start" x="295" y="-1437.3" font-family="arial" font-size="14.00">TX800:3:IRC</text>
+<text text-anchor="start" x="389" y="-1437.3" font-family="arial" font-size="14.00"> &#160;&#160;&#160;&#160;2:YE &#160;&#160;&#160;</text>
+<text text-anchor="start" x="469.5" y="-1437.3" font-family="arial" font-size="14.00">FC_AIO:2:T3</text>
+<polygon fill="#000000" stroke="transparent" points="283.5,-1429.5 283.5,-1431.5 563.5,-1431.5 563.5,-1429.5 283.5,-1429.5"/>
+<polygon fill="#ffff00" stroke="transparent" points="283.5,-1427.5 283.5,-1429.5 563.5,-1429.5 563.5,-1427.5 283.5,-1427.5"/>
+<polygon fill="#000000" stroke="transparent" points="283.5,-1425.5 283.5,-1427.5 563.5,-1427.5 563.5,-1425.5 283.5,-1425.5"/>
+<text text-anchor="start" x="291.5" y="-1412.3" font-family="arial" font-size="14.00">TX800:5:GND</text>
+<text text-anchor="start" x="389" y="-1412.3" font-family="arial" font-size="14.00"> &#160;&#160;&#160;&#160;3:BK &#160;&#160;&#160;</text>
+<text text-anchor="start" x="458.5" y="-1412.3" font-family="arial" font-size="14.00">FC_AIO:3:GND1</text>
+<polygon fill="#000000" stroke="transparent" points="283.5,-1404.5 283.5,-1406.5 563.5,-1406.5 563.5,-1404.5 283.5,-1404.5"/>
+<polygon fill="#000000" stroke="transparent" points="283.5,-1402.5 283.5,-1404.5 563.5,-1404.5 563.5,-1402.5 283.5,-1402.5"/>
+<polygon fill="#000000" stroke="transparent" points="283.5,-1400.5 283.5,-1402.5 563.5,-1402.5 563.5,-1400.5 283.5,-1400.5"/>
+<text text-anchor="start" x="298.5" y="-1387.3" font-family="arial" font-size="14.00">TX800:6:5V</text>
+<text text-anchor="start" x="388.5" y="-1387.3" font-family="arial" font-size="14.00"> &#160;&#160;&#160;&#160;4:RD &#160;&#160;&#160;</text>
+<text text-anchor="start" x="469" y="-1387.3" font-family="arial" font-size="14.00">FC_AIO:4:5V</text>
+<polygon fill="#000000" stroke="transparent" points="283.5,-1379.5 283.5,-1381.5 563.5,-1381.5 563.5,-1379.5 283.5,-1379.5"/>
+<polygon fill="#ff0000" stroke="transparent" points="283.5,-1377.5 283.5,-1379.5 563.5,-1379.5 563.5,-1377.5 283.5,-1377.5"/>
+<polygon fill="#000000" stroke="transparent" points="283.5,-1375.5 283.5,-1377.5 563.5,-1377.5 563.5,-1375.5 283.5,-1375.5"/>
+<text text-anchor="start" x="332.5" y="-1362.3" font-family="arial" font-size="14.00"> </text>
 </g>
 <!-- TX800&#45;&#45;W_VTX1 -->
 <g id="edge1" class="edge">
 <title>TX800:e&#45;&#45;W_VTX1:w</title>
-<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1423.5C195.72,-1424.53 211.28,-1452.53 281.5,-1451.5"/>
-<path fill="none" stroke="#ffffff" stroke-width="2" d="M122,-1425.5C193.97,-1425.5 209.53,-1453.5 281.5,-1453.5"/>
-<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1427.5C192.22,-1426.47 207.78,-1454.47 281.5,-1455.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1423.5C196.16,-1424.52 211.83,-1452.52 282.5,-1451.5"/>
+<path fill="none" stroke="#00ff00" stroke-width="2" d="M122,-1425.5C194.41,-1425.5 210.09,-1453.5 282.5,-1453.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1427.5C192.67,-1426.48 208.34,-1454.48 282.5,-1455.5"/>
 </g>
 <!-- TX800&#45;&#45;W_VTX1 -->
 <g id="edge3" class="edge">
 <title>TX800:e&#45;&#45;W_VTX1:w</title>
-<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1446.5C191.91,-1447.22 208.52,-1427.22 281.5,-1426.5"/>
-<path fill="none" stroke="#895956" stroke-width="2" d="M122,-1448.5C193.44,-1448.5 210.06,-1428.5 281.5,-1428.5"/>
-<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1450.5C194.98,-1449.78 211.59,-1429.78 281.5,-1430.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1446.5C192.35,-1447.22 209.08,-1427.22 282.5,-1426.5"/>
+<path fill="none" stroke="#ffff00" stroke-width="2" d="M122,-1448.5C193.89,-1448.5 210.61,-1428.5 282.5,-1428.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1450.5C195.42,-1449.78 212.15,-1429.78 282.5,-1430.5"/>
 </g>
 <!-- TX800&#45;&#45;W_VTX1 -->
 <g id="edge5" class="edge">
 <title>TX800:e&#45;&#45;W_VTX1:w</title>
-<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1400.5C193,-1400.5 210.72,-1401.5 281.5,-1401.5"/>
-<path fill="none" stroke="#00ff00" stroke-width="2" d="M122,-1402.5C192.89,-1402.5 210.61,-1403.5 281.5,-1403.5"/>
-<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1404.5C192.78,-1404.5 210.5,-1405.5 281.5,-1405.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1400.5C193.45,-1400.5 211.28,-1401.5 282.5,-1401.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1402.5C193.33,-1402.5 211.17,-1403.5 282.5,-1403.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1404.5C193.22,-1404.5 211.05,-1405.5 282.5,-1405.5"/>
 </g>
 <!-- TX800&#45;&#45;W_VTX1 -->
 <g id="edge7" class="edge">
 <title>TX800:e&#45;&#45;W_VTX1:w</title>
-<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1377.5C192.78,-1377.5 210.5,-1376.5 281.5,-1376.5"/>
-<path fill="none" stroke="#ffff00" stroke-width="2" d="M122,-1379.5C192.89,-1379.5 210.61,-1378.5 281.5,-1378.5"/>
-<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1381.5C193,-1381.5 210.72,-1380.5 281.5,-1380.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1377.5C193.22,-1377.5 211.05,-1376.5 282.5,-1376.5"/>
+<path fill="none" stroke="#ff0000" stroke-width="2" d="M122,-1379.5C193.33,-1379.5 211.17,-1378.5 282.5,-1378.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M122,-1381.5C193.45,-1381.5 211.28,-1380.5 282.5,-1380.5"/>
 </g>
 <!-- FC_AIO -->
 <g id="node2" class="node">
@@ -486,7 +486,7 @@
 <polygon fill="none" stroke="black" points="303.5,-820.5 303.5,-843.5 362.5,-843.5 362.5,-820.5 303.5,-820.5"/>
 <text text-anchor="start" x="325.5" y="-828.3" font-family="arial" font-size="14.00">2x</text>
 <polygon fill="none" stroke="black" points="362.5,-820.5 362.5,-843.5 458.5,-843.5 458.5,-820.5 362.5,-820.5"/>
-<text text-anchor="start" x="384.5" y="-828.3" font-family="arial" font-size="14.00">12 AWG</text>
+<text text-anchor="start" x="384.5" y="-828.3" font-family="arial" font-size="14.00">16 AWG</text>
 <polygon fill="none" stroke="black" points="458.5,-820.5 458.5,-843.5 544.5,-843.5 544.5,-820.5 458.5,-820.5"/>
 <text text-anchor="start" x="480.5" y="-828.3" font-family="arial" font-size="14.00">7.0 cm</text>
 <text text-anchor="start" x="340.5" y="-807.3" font-family="arial" font-size="14.00"> </text>
@@ -829,30 +829,30 @@
 <!-- W_VTX1&#45;&#45;FC_AIO -->
 <g id="edge2" class="edge">
 <title>W_VTX1:e&#45;&#45;FC_AIO:w</title>
-<path fill="none" stroke="#000000" stroke-width="2" d="M565.5,-1451.5C725.51,-1454.42 553.44,-1123.42 717,-1120.5"/>
-<path fill="none" stroke="#ffffff" stroke-width="2" d="M565.5,-1453.5C727.29,-1453.5 555.21,-1122.5 717,-1122.5"/>
-<path fill="none" stroke="#000000" stroke-width="2" d="M565.5,-1455.5C729.06,-1452.58 556.99,-1121.58 717,-1124.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M564.5,-1451.5C724.7,-1454.42 553.25,-1123.42 717,-1120.5"/>
+<path fill="none" stroke="#00ff00" stroke-width="2" d="M564.5,-1453.5C726.47,-1453.5 555.03,-1122.5 717,-1122.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M564.5,-1455.5C728.25,-1452.58 556.8,-1121.58 717,-1124.5"/>
 </g>
 <!-- W_VTX1&#45;&#45;FC_AIO -->
 <g id="edge4" class="edge">
 <title>W_VTX1:e&#45;&#45;FC_AIO:w</title>
-<path fill="none" stroke="#000000" stroke-width="2" d="M565.5,-1426.5C724.7,-1429.42 554.24,-1100.42 717,-1097.5"/>
-<path fill="none" stroke="#895956" stroke-width="2" d="M565.5,-1428.5C726.48,-1428.5 556.02,-1099.5 717,-1099.5"/>
-<path fill="none" stroke="#000000" stroke-width="2" d="M565.5,-1430.5C728.26,-1427.58 557.8,-1098.58 717,-1101.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M564.5,-1426.5C723.89,-1429.42 554.06,-1100.42 717,-1097.5"/>
+<path fill="none" stroke="#ffff00" stroke-width="2" d="M564.5,-1428.5C725.67,-1428.5 555.83,-1099.5 717,-1099.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M564.5,-1430.5C727.44,-1427.58 557.61,-1098.58 717,-1101.5"/>
 </g>
 <!-- W_VTX1&#45;&#45;FC_AIO -->
 <g id="edge6" class="edge">
 <title>W_VTX1:e&#45;&#45;FC_AIO:w</title>
-<path fill="none" stroke="#000000" stroke-width="2" d="M565.5,-1401.5C723.9,-1404.42 555.05,-1077.42 717,-1074.5"/>
-<path fill="none" stroke="#00ff00" stroke-width="2" d="M565.5,-1403.5C725.67,-1403.5 556.83,-1076.5 717,-1076.5"/>
-<path fill="none" stroke="#000000" stroke-width="2" d="M565.5,-1405.5C727.45,-1402.58 558.6,-1075.58 717,-1078.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M564.5,-1401.5C723.08,-1404.41 554.86,-1077.41 717,-1074.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M564.5,-1403.5C724.86,-1403.5 556.64,-1076.5 717,-1076.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M564.5,-1405.5C726.64,-1402.59 558.42,-1075.59 717,-1078.5"/>
 </g>
 <!-- W_VTX1&#45;&#45;FC_AIO -->
 <g id="edge8" class="edge">
 <title>W_VTX1:e&#45;&#45;FC_AIO:w</title>
-<path fill="none" stroke="#000000" stroke-width="2" d="M565.5,-1376.5C723.09,-1379.42 555.85,-1054.42 717,-1051.5"/>
-<path fill="none" stroke="#ffff00" stroke-width="2" d="M565.5,-1378.5C724.87,-1378.5 557.63,-1053.5 717,-1053.5"/>
-<path fill="none" stroke="#000000" stroke-width="2" d="M565.5,-1380.5C726.65,-1377.58 559.41,-1052.58 717,-1055.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M564.5,-1376.5C722.28,-1379.41 555.66,-1054.41 717,-1051.5"/>
+<path fill="none" stroke="#ff0000" stroke-width="2" d="M564.5,-1378.5C724.06,-1378.5 557.44,-1053.5 717,-1053.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M564.5,-1380.5C725.84,-1377.59 559.22,-1052.59 717,-1055.5"/>
 </g>
 <!-- W_GPS1&#45;&#45;FC_AIO -->
 <g id="edge10" class="edge">

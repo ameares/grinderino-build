@@ -1,0 +1,107 @@
+connectors:
+  TX800:
+    type: SMT Pads
+    pinlabels: [3.7-5V, PGND, IRC, VIDEO, GND, 5V]
+  GPS:
+    type: SMT Pads
+    pinlabels: [SDA, SCL, VCC, GND, RX, TX]
+  ELRS_RX:
+    type: SMT Pads
+    pinlabels: [RX, TX, VCC, G]
+  FC_AIO:
+    type: SMT Pads
+    pinlabels: [VTX, T3, GND1, 5V, SDA, SCL, 4V5, GND2, T5, R5, G, R6, 4V5_2, T6, B+, B-, MA1, MA2, MA3, MB1, MB2, MB3, MC1, MC2, MC3, MD1, MD2, MD3]
+  BATT1:
+    type: XT30
+    subtype: female
+    pinlabels: [B+, B-]
+  MOTORA:
+    type: Wires
+    pinlabels: [M1, M2, M3]
+  MOTORB:
+    type: Wires
+    pinlabels: [M1, M2, M3]
+  MOTORC:
+    type: Wires
+    pinlabels: [M1, M2, M3]
+  MOTORD:
+    type: Wires
+    pinlabels: [M1, M2, M3]
+
+
+cables:
+  W_VTX1:
+    gauge: 30 AWG
+    color_code: DIN
+    wirecount: 4
+    length: 4 cm
+  W_GPS1:
+    gauge: 30 AWG
+    color_code: DIN
+    wirecount: 6
+    length: 4 cm
+  W_ELRS1:
+    gauge: 30 AWG
+    color_code: DIN
+    wirecount: 4
+    length: 4 cm
+  W_BATT1:
+    gauge: 12 AWG
+    colors: [RD, BK]
+    wirecount: 2
+    length: 7 cm
+  W_MA:
+    gauge: 24 AWG
+    colors: [BK, BK, BK]
+    wirecount: 3
+    length: 12 cm
+  W_MB:
+    gauge: 24 AWG
+    colors: [BK, BK, BK]
+    wirecount: 3
+    length: 12 cm
+  W_MC:
+    gauge: 24 AWG
+    colors: [BK, BK, BK]
+    wirecount: 3
+    length: 12 cm
+  W_MD:
+    gauge: 24 AWG
+    colors: [BK, BK, BK]
+    wirecount: 3
+    length: 12 cm
+
+connections:
+  -
+    - TX800: [VIDEO, IRC, GND, 5V]
+    - W_VTX1: [1-4]
+    - FC_AIO: [VTX, T3, GND1, 5V]
+  -
+    - GPS: [SDA, SCL, VCC, GND, RX, TX]
+    - W_GPS1: [1-6]
+    - FC_AIO: [SDA, SCL, 4V5, GND2, T5, R5]
+  -
+    - ELRS_RX: [RX, TX, VCC, G]
+    - W_ELRS1: [1-4]
+    - FC_AIO: [T6, R6, 4V5_2, G]
+  -
+    - BATT1: [B+, B-]
+    - W_BATT1: [1-2]
+    - FC_AIO: [B+, B-]
+  -
+    - MOTORA: [M1, M2, M3]
+    - W_MA: [1-3]
+    - FC_AIO: [MA1, MA2, MA3]
+  -
+    - MOTORB: [M1, M2, M3]
+    - W_MB: [1-3]
+    - FC_AIO: [MB1, MB2, MB3]
+  -
+    - MOTORC: [M1, M2, M3]
+    - W_MC: [1-3]
+    - FC_AIO: [MC1, MC2, MC3]
+  -
+    - MOTORD: [M1, M2, M3]
+    - W_MD: [1-3]
+    - FC_AIO: [MD1, MD2, MD3]
+    

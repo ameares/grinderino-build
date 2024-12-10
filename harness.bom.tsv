@@ -1,0 +1,10 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 2 x 12 AWG	7	cm	W_BATT1
+2	Cable, 3 x 24 AWG	48	cm	W_MA, W_MB, W_MC, W_MD
+3	Cable, 4 x 30 AWG	8	cm	W_ELRS1, W_VTX1
+4	Cable, 6 x 30 AWG	4	cm	W_GPS1
+5	Connector, SMT Pads, 28 pins	1		FC_AIO
+6	Connector, SMT Pads, 4 pins	1		ELRS_RX
+7	Connector, SMT Pads, 6 pins	2		GPS, TX800
+8	Connector, Wires, 3 pins	4		MOTORA, MOTORB, MOTORC, MOTORD
+9	Connector, XT30, female, 2 pins	1		BATT1

@@ -1,7 +1,10 @@
 # 3.5" Grinderino FPV Drone Build
 
-Here is a wiring harness diagram for my drone. 
+# Custom GPS Mount
+This mount is located behind the battery.  The two holes are for the standoffs at that location.
+I use a dot of electrical grade silicone underneath the GPS to help prevent it from breaking free during crashes.
+[GPS Mount STL](./gps_mount.stl)
+
+# WirViz Wiring Diagram
 ![Wiring Diagram](./harness.svg)
 
-Here is a custom GPS mount for behind the battery.  The two holes are for the standoffs at that location.
-![GPS Mount](./gps_mount.stl)
